@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Ping Pong Nerds Online Help"
+    Link="/Content/Home.htm" />
+  <TocEntry
+    Title="Table Tennis"
+    Link="/Content/TableTennis.htm" />
+  <TocEntry
+    Title="History"
+    Link="/Content/History.htm"></TocEntry>
+  <TocEntry
+    Title="Equipment"
+    Link="/Content/Equipment.htm">
+    <TocEntry
+      Title="Ball"
+      Link="/Content/Equipment/Ball.htm" />
+    <TocEntry
+      Title="Paddle /Racket /Bat"
+      Link="/Content/Equipment/PaddleRacketBat.htm" />
+    <TocEntry
+      Title="Table"
+      Link="/Content/Equipment/Table.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Gameplay"
+    Link="/Content/Gameplay.htm">
+    <TocEntry
+      Title="Starting a Game"
+      Link="/Content/Gameplay/StartingAGame.htm" />
+    <TocEntry
+      Title="Service and Return"
+      Link="/Content/Gameplay/ServiceAndReturn.htm" />
+    <TocEntry
+      Title="Scoring"
+      Link="/Content/Gameplay/Scoring.htm" />
+    <TocEntry
+      Title="Alternation of services and ends"
+      Link="/Content/Gameplay/AltOfService&amp;Ends.htm" />
+    <TocEntry
+      Title="Doubles Game">
+      <TocEntry
+        Title="Doubles Game"
+        Link="/Content/Gameplay/DoublesGame/DoublesGame.htm" />
+      <TocEntry
+        Title="Order of play, serving and receiving"
+        Link="/Content/Gameplay/DoublesGame/OrderOfPlay.htm" />
+      <TocEntry
+        Title="Service"
+        Link="/Content/Gameplay/DoublesGame/Service.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Expedite System"
+      Link="/Content/Gameplay/ExpediteSystem.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Grips"
+    Link="/Content/Grips.htm">
+    <TocEntry
+      Title="Penhold"
+      Link="/Content/Grips/Penhold.htm" />
+    <TocEntry
+      Title="Shakehand"
+      Link="/Content/Grips/Shakehand.htm" />
+    <TocEntry
+      Title="Seemiller"
+      Link="/Content/Grips/Seemiller.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Effects of Spin"
+    Link="/Content/EffectsOfSpin.htm">
+    <TocEntry
+      Title="Backspin"
+      Link="/Content/EffectsOfSpin/Backspin.htm" />
+    <TocEntry
+      Title="Topspin"
+      Link="/Content/EffectsOfSpin/TopSpin.htm" />
+    <TocEntry
+      Title="Corkspin"
+      Link="/Content/EffectsOfSpin/Corkspin.htm" />
+    <TocEntry
+      Title="Sidespin"
+      Link="/Content/EffectsOfSpin/Sidespin.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Types of Strokes"
+    Link="/Content/TypesOfStrokes.htm">
+    <TocEntry
+      Title="Defensive Strokes">
+      <TocEntry
+        Title="Block"
+        Link="/Content/Strokes/DefensiveStrokes/Block.htm" />
+      <TocEntry
+        Title="Chop"
+        Link="/Content/Strokes/DefensiveStrokes/Chop.htm" />
+      <TocEntry
+        Title="Lob"
+        Link="/Content/Strokes/DefensiveStrokes/Lob.htm" />
+      <TocEntry
+        Title="Push"
+        Link="/Content/Strokes/DefensiveStrokes/Push.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Offensive Strokes">
+      <TocEntry
+        Title="Hit"
+        Link="/Content/Strokes/OffensiveStrokes/Hit.htm"></TocEntry>
+      <TocEntry
+        Title="Counter-hit"
+        Link="/Content/Strokes/OffensiveStrokes/Counter-Hit.htm" />
+      <TocEntry
+        Title="Smash"
+        Link="/Content/Strokes/OffensiveStrokes/Smash.htm" />
+      <TocEntry
+        Title="Loop"
+        Link="/Content/Strokes/OffensiveStrokes/Loop.htm" />
+      <TocEntry
+        Title="Flip"
+        Link="/Content/Strokes/OffensiveStrokes/Flip.htm" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>
