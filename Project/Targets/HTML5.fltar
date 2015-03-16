@@ -6,7 +6,8 @@
   Destinations=""
   GlossaryTermConversion="marked"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
-  DefaultUrl="/Content/Home.htm">
+  DefaultUrl="/Content/Home.htm"
+  SearchBarSkin="/Project/Skins/Search Bar.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
