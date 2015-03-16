@@ -39,7 +39,8 @@
       Title="Alternation of services and ends"
       Link="/Content/Gameplay/AltOfService&amp;Ends.htm" />
     <TocEntry
-      Title="Doubles Game">
+      Title="Doubles Game"
+      Link="/Content/Doubles Game.htm">
       <TocEntry
         Title="Doubles Game"
         Link="/Content/Gameplay/DoublesGame/DoublesGame.htm" />
@@ -87,7 +88,8 @@
     Title="Types of Strokes"
     Link="/Content/TypesOfStrokes.htm">
     <TocEntry
-      Title="Defensive Strokes">
+      Title="Defensive Strokes"
+      Link="/Content/Defensive Strokes.htm">
       <TocEntry
         Title="Block"
         Link="/Content/Strokes/DefensiveStrokes/Block.htm" />
@@ -102,7 +104,8 @@
         Link="/Content/Strokes/DefensiveStrokes/Push.htm" />
     </TocEntry>
     <TocEntry
-      Title="Offensive Strokes">
+      Title="Offensive Strokes"
+      Link="/Content/Offensive Strokes.htm">
       <TocEntry
         Title="Hit"
         Link="/Content/Strokes/OffensiveStrokes/Hit.htm"></TocEntry>
