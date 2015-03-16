@@ -47,6 +47,8 @@
             Name="BorderLeft">solid 2px #696969</Property>
           <Property
             Name="Height">35px</Property>
+          <Property
+            Name="Display">none</Property>
         </Properties>
       </Style>
       <Style
