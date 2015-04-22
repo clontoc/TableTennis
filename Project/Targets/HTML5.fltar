@@ -7,7 +7,8 @@
   GlossaryTermConversion="marked"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
   DefaultUrl="/Content/Home.htm"
-  SearchBarSkin="/Project/Skins/Search Bar.flskn">
+  SearchBarSkin="/Project/Skins/Search Bar.flskn"
+  MasterPage="/Content/Resources/MasterPages/ContentMasterPage.flmsp">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
